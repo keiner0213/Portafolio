@@ -55,43 +55,43 @@ function SectionDatos() {
     <section id="datos" className="hero">
       <div className="hero-content">
         <h2>Estudiante de Media Técnica</h2>
-        <h1>Tu Nombre Aquí</h1>
+        <h1>Keiner Lenis</h1>
 
         <div className="contact-info">
           <ul>
             <li>
               <div className="contact-item">
                 <i className="fas fa-phone-alt" />
-                <a href="https://wa.me/573001234567" target="_blank" rel="noreferrer">
-                  +57 300 000 0000
+                <a href="https://wa.me/573134253321" target="_blank" rel="noreferrer">
+                  +57 313 425 3321
                 </a>
               </div>
             </li>
             <li>
               <div className="contact-item">
                 <i className="fas fa-envelope" />
-                <a href="mailto:tu.correo@compuestudio.edu.co">
-                  tu.correo@compuestudio.edu.co
+                <a href="mailto:keinerlenis490@gmail.com">
+                  keinerlenis490@gmail.com
                 </a>
               </div>
             </li>
             <li>
               <div className="contact-item">
                 <i className="fab fa-instagram" />
-                <a href="https://instagram.com/tu_usuario" target="_blank" rel="noreferrer">
-                  @tu_usuario
+                <a href="https://instagram.com/keiner_0213" target="_blank" rel="noreferrer">
+                  @keiner_0213
                 </a>
               </div>
             </li>
             <li>
               <div className="social-links">
-                <a href="https://instagram.com/tu_usuario" target="_blank" rel="noreferrer" aria-label="Instagram">
+                <a href="https://instagram.com/keiner_0213" target="_blank" rel="noreferrer" aria-label="Instagram">
                   <i className="fab fa-instagram" />
                 </a>
-                <a href="https://facebook.com/tu_usuario" target="_blank" rel="noreferrer" aria-label="Facebook">
+                <a href="https://facebook.com/keiner.lenis" target="_blank" rel="noreferrer" aria-label="Facebook">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a href="https://linkedin.com/in/tu_usuario" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+                <a href="https://linkedin.com/in/keiner-lenis" target="_blank" rel="noreferrer" aria-label="LinkedIn">
                   <i className="fab fa-linkedin-in" />
                 </a>
               </div>
@@ -119,8 +119,8 @@ function SectionDatos() {
 
       <div className="hero-image">
         <img
-          src="https://ui-avatars.com/api/?name=Tu+Nombre&size=300&background=002c5f&color=ffffff&bold=true&font-size=0.33"
-          alt="Foto de perfil"
+          src="https://ui-avatars.com/api/?name=Keiner+Lenis&size=300&background=002c5f&color=ffffff&bold=true&font-size=0.33"
+          alt="Keiner Lenis"
         />
       </div>
     </section>
@@ -255,7 +255,7 @@ function Footer() {
         className="footer-logo"
         onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = "none"; }}
       />
-      <p>© 2025 Portafolio Estudiantil — Compuestudio</p>
+      <p>© 2025 Keiner Lenis — Compuestudio</p>
       <div className="footer-links">
         <a href="https://compuestudio.edu.co/" target="_blank" rel="noreferrer">Sitio Institucional</a>
         <a href="#datos" onClick={(e) => { e.preventDefault(); document.getElementById("datos")?.scrollIntoView({ behavior: "smooth" }); }}>Datos de contacto</a>
