@@ -119,7 +119,7 @@ function SectionDatos() {
 
       <div className="hero-image">
         <img
-          src="https://ui-avatars.com/api/?name=Keiner+Lenis&size=300&background=002c5f&color=ffffff&bold=true&font-size=0.33"
+          src="/foto.jpeg"
           alt="Keiner Lenis"
         />
       </div>
