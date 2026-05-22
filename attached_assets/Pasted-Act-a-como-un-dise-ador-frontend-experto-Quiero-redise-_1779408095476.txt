@@ -1,0 +1,33 @@
+Actúa como un diseñador frontend experto. Quiero rediseñar por completo el estilo visual (CSS) de mi página web actual, manteniendo su estructura y contenido intactos, pero cambiando todo su diseño y colores.
+
+El objetivo es adoptar una estética moderna, elegante y profesional inspirada en una tarjeta de presentación digital de Canva, con las siguientes especificaciones:
+
+Paleta de Colores:
+
+Fondo: Un tono oscuro pero suave (como gris oscuro #1A1A1A, negro mate o un verde oliva/azul petróleo muy oscuro y opaco).
+
+Detalles y Acentos: Usa tonos dorados sutiles (#D4AF37), arena o beige claro para las letras principales y bordes elegantes.
+
+Contrastes: El texto secundario debe ser de un color blanco hueso o gris claro para que sea legible pero suave.
+
+Tipografía:
+
+Cambia las fuentes por una combinación limpia y sofisticada. Usa una fuente Serif elegante para los títulos principales (ej. 'Playfair Display' o 'Cinzel' de Google Fonts) y una Sans-Serif minimalista para los textos y botones (ej. 'Montserrat' o 'Inter').
+
+Componentes y Elementos:
+
+Contenedor Principal / Tarjeta: Envuelve el contenido en una tarjeta central con bordes ligeramente redondeados (border-radius: 12px o 16px), un fondo sutilmente diferenciado (puedes usar un efecto de vidrio esmerilado / backdrop-filter: blur o un color un poco más claro que el fondo general) y una sombra muy suave (box-shadow).
+
+Botones y Enlaces: Conviértelos en bloques limpios, con bordes finos de color dorado o arena, fondo transparente que cambie de color suavemente al pasar el cursor (efecto hover con transition), y texto centrado con buen espacio interno (padding).
+
+Imágenes de perfil/Logos: Si hay fotos o logos, asegúrate de que tengan un marco elegante (puede ser circular o cuadrado con esquinas suavizadas) y estén perfectamente centrados.
+
+Diseño General:
+
+Todo debe estar perfectamente centrado en la pantalla (puedes usar Flexbox o Grid).
+
+El diseño debe ser 100% responsivo, adaptándose perfectamente a teléfonos móviles y computadoras.
+
+Elimina cualquier estilo anterior que sature la vista; buscamos un look minimalista, "premium" y limpio.
+
+Por favor, genera o modifica el archivo CSS necesario y aplícalo a mi HTML actual sin romper las etiquetas ni las funciones existentes."
